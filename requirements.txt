@@ -1,0 +1,27 @@
+# Core
+fastapi
+uvicorn[standard]
+redis
+psycopg2-binary
+sqlalchemy
+asyncpg
+pydantic
+httpx
+beautifulsoup4
+readability-lxml
+
+# Vector DB
+qdrant-client
+
+# Embeddings / AI
+openai
+tiktoken
+sentence-transformers
+
+# Background tasks
+rq
+aiohttp
+
+# Misc
+python-dotenv
+loguru
